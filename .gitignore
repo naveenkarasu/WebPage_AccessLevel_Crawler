@@ -172,3 +172,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Excel outputs
+*.xlsx
+
+# Playwright downloads (optional)
+playwright/.cache/
+.playwright/
+
