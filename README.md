@@ -142,13 +142,6 @@ playwright install
 
 ---
 
-## ⚠️ Disclaimer
-
-This tool is intended only for learning and ethical exploration of websites you own or have permission to analyze.  
-Do not use it for unauthorized scanning of third-party sites.
-
----
-
 ## 📘 Learn More: Beginner’s Guide to Web Crawling & Automation
 
 Want to understand the why behind this tool? Here’s a breakdown of everything covered in our companion blog post:
@@ -172,3 +165,10 @@ Perfect for:
 - Bloggers building smarter workflows
 
 > Use it to explore, test, and learn — one URL at a time.
+
+## ⚠️ Disclaimer
+
+This tool is intended only for learning and ethical exploration of websites you own or have permission to analyze.  
+Do not use it for unauthorized scanning of third-party sites.
+
+---
